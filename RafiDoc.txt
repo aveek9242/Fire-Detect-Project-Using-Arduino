@@ -1,0 +1,17 @@
+Connection
+Flame Sensor
+Sensor	Arduino
+VCC	5V
+GND	GND
+DO	D2
+MQ-2 Gas Sensor
+Sensor	Arduino
+VCC	5V
+GND	GND
+DO	D3
+LED
+LED + → D8
+LED - → Resistor → GND
+Buzzer
+→ D9
+→ GND
